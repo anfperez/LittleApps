@@ -1,13 +1,13 @@
 <h1> LittleApps </h1> 
 
 <h2> Description </h2>
-This is a series of simple word and number games that are run from the command line. This small application was written as my first practice in Java. </p>
+<p> This is a series of simple word and number games that are run from the command line. This small application was written as my first practice in Java. </p>
 
 <h2> Technologies Used </h2>
 <ul>
 <li> Java SE Development Kit </li> 
 <li> Intelli-J IDEA CE </li>
-<ul>
+</ul>
 
 <h2> Feature Specs </h2>
 <ul>
